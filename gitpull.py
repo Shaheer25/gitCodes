@@ -2,9 +2,9 @@ from github import Github
 import os
 
 # GitHub username or organization name
-username = "Shaheer25"
+username = ""
 # GitHub personal access token (create one in your GitHub account settings)
-access_token = "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"
+access_token = ""
 # Local directory where repositories will be cloned
 local_directory = "C:\\Users\\Shaheer\\Desktop\\Shaheer"
 
